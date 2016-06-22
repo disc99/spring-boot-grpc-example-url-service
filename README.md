@@ -1,1 +1,1 @@
-# spring-boot-grpc-example
+# spring-boot-grpc-example-url-service
