@@ -35,7 +35,7 @@ dependencies {
 	compile "io.grpc:grpc-netty:${grpcVersion}"
 	compile "io.grpc:grpc-protobuf:${grpcVersion}"
 	compile "io.grpc:grpc-stub:${grpcVersion}"
-	compile('org.lognet:grpc-spring-boot-starter:2.0.0')
+	compile 'org.lognet:grpc-spring-boot-starter:2.0.0'
 
 	compile('org.springframework.boot:spring-boot-starter')
 	runtime('org.springframework.boot:spring-boot-devtools')
