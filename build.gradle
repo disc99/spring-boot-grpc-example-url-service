@@ -30,7 +30,6 @@ repositories {
 
 def grpcVersion = '1.1.2'
 
-
 dependencies {
 	compile "io.grpc:grpc-netty:${grpcVersion}"
 	compile "io.grpc:grpc-protobuf:${grpcVersion}"
